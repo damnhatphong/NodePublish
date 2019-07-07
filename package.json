@@ -11,5 +11,13 @@
   },
   "author": "Me",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damnhatphong/NodePublish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/damnhatphong/NodePublish/issues"
+  },
+  "homepage": "https://github.com/damnhatphong/NodePublish#readme",
   "description": ""
 }
